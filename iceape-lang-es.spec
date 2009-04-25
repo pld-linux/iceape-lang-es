@@ -6,7 +6,7 @@ Summary(ca.UTF-8):	Recursos espanyols per a Iceape
 Summary(es.UTF-8):	Recursos españoles para Iceape
 Summary(pl.UTF-8):	Hiszpańskie pliki językowe dla Iceape
 Name:		iceape-lang-es
-Version:	1.1.13
+Version:	1.1.14
 Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
