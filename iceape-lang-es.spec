@@ -7,13 +7,13 @@ Summary(es.UTF-8):	Recursos españoles para Iceape
 Summary(pl.UTF-8):	Hiszpańskie pliki językowe dla Iceape
 Name:		iceape-lang-es
 Version:	1.1.14
-Release:	1
+Release:	2
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://releases.mozilla.org/pub/mozilla.org/seamonkey/releases/%{version}/contrib-localized//seamonkey-%{version}.%{_lare}.langpack.xpi
 # Source0-md5:	aa789a6abf2120717e9de8ccce6b66cd
-Source1:	http://www.mozilla-enigmail.org/download/release/0.95/enigmail-%{_lare}-0.95.xpi
-# Source1-md5:	b4600f86bce0ab816bb2896a936eecaa
+Source1:	http://www.mozilla-enigmail.org/download/release/0.96/enigmail-%{_lare}-0.96.xpi
+# Source1-md5:	e2e312c34ba938825df808bbeff5f1fa
 Source2:	gen-installed-chrome.sh
 URL:		http://www.seamonkey-project.org/
 BuildRequires:	unzip
